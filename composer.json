@@ -24,5 +24,8 @@
     },
     "replace": {
         "oxid-esales/php-selenium": "1.0.5"
+    },
+    "archive": {
+        "exclude": [".next-bump"]
     }
 }
